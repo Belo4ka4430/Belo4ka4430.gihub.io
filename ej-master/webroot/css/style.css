@@ -1,0 +1,35 @@
+.ls-form-container {
+    margin-top: 3rem;
+    max-width: 40rem;
+}
+.alert-signup {
+    margin-top: 1rem;
+    max-width: 40rem;
+    text-align: center;
+}
+
+.media {
+    background-color: #efefef;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.media:hover {
+    background-color: #dfdfdf;
+}
+
+.dateform {
+    display: flex;
+    flex-direction: column;
+}
+
+.datecol {
+    width: 20rem;
+}
+
+.admin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+{
+    "name": "reebok/ej",
+    "type": "project",
+    "authors": [
+        {
+            "name": "likemalbolge",
+            "email": "vanyaolenyshak@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Models\\": "src/Models",
+            "Views\\": "src/Views",
+            "Controllers\\": "src/Controllers",
+            "System\\": "src/",
+            "Helpers\\": "src/Helpers"
+        }
+    }
+}
